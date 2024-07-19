@@ -889,6 +889,7 @@ gateway-go
 gator
 gatsby-cli
 gau
+gcc@11
 gcem
 gcovr
 gcsfuse
